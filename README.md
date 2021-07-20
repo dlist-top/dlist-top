@@ -13,7 +13,7 @@ To get started please [create an issue](https://github.com/dlist-top/dlist-top/i
 
 To get support from our staff team, please join the [official Discord server](https://discord.gg/z5UmaMCjdY).
 
-## Translate to your language
+## Translate
 
 Join our Discord server using the link above and contact our staff.
 
