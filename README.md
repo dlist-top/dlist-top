@@ -15,7 +15,7 @@ To get support from our staff team, please join the [official Discord server](ht
 
 ## Translate
 
-Join our Discord server using the link above and contact our staff.
+If you want to help us by translating DList.top to your language - please join the Discord server (using the link above) and ask us!.
 
 ## Integrate your project
 
