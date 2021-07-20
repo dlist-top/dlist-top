@@ -1,5 +1,7 @@
 # [DList.top](https://dlist.top)
 
+Sorry, you cant't find the source code here. Good luck anyway :)
+
 ## Bug reports / feature requests
 
 Have you noticed any wild bug or error? 
