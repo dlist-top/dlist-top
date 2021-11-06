@@ -7,7 +7,7 @@ Sorry, you cant't find the source code here. Good luck anyway :)
 Have you noticed any wild bug or error? 
 Do you have an awesome idea for what we should add to the website?
 
-To get started please [create an issue](https://github.com/dlist-top/dlist-top/issues/new/choose). Thanks in advice!
+To get started please [create an issue](https://github.com/dlist-top/dlist-top/issues/new/choose). Thanks in advance!
 
 ## Support
 
